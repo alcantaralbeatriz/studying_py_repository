@@ -9,8 +9,8 @@ def LeiaA(fr,car):
     return cont
 
 def main():
-    f = input('Qual sua string? ')
-    c = input('Qual seu caracter?')
-    print(f'A palavra {f} tem {LeiaA(f,c)} letras {c}.')
+    f = input('Qual sua string/palavra? ')
+    c = input('Qual o caracter que irei contar?')
+    print(f'A palavra {f} tem {LeiaA(f,c)} letra(s) {c}.')
 
 main()
