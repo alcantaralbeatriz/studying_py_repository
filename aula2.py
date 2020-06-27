@@ -8,7 +8,7 @@ def LeiaA(fr,car):
             cont += 1
     return cont
 
-#testing the sharing fuction
+#testing the sharing function
 
 def main():
     f = input('Qual sua string/palavra? ')
