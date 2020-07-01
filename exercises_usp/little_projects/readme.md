@@ -2,6 +2,7 @@
 
 ### Introdução 
 São exercícios práticos realizados durante a disciplina MAC0119 (Introdução à Computação) no período do mestrado em 2019. A disciplina era focada em ensinar linguagem de programação Python. :vulcan_salute:
+
 ---
 
 ### Primeiro Exercício Prático
