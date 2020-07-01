@@ -35,7 +35,7 @@ Sendo que seu programa deve responder da seguinte forma.
 A proporcao apos 87 meses e: 0.55
 ```
 
-Plus: Este modelo foi diculgado por m biólogo chamado Robert May, e está relacionado com mapas logísticos e teoria do caos. Mais informações podem ser enconradas neste [link](https://en.wikipedia.org/wiki/Logistic_map) .
+Plus: Este modelo foi diculgado por m biólogo chamado Robert May, e está relacionado com mapas logísticos e teoria do caos. Mais informações podem ser encontradas neste [link](https://en.wikipedia.org/wiki/Logistic_map) .
 
 ---
 

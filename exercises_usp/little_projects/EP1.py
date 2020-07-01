@@ -5,16 +5,6 @@ def numeracao_meses(): #Para esclarecer ao usuario a numeracao a ser utilizada.
     '[3] - Março      [9]  - Setembro\n[4] - Abril      [10] - Outubro\n'
     '[5] - Maio       [11] - Novembro\n[6] - Junho      [12] - Dezembro')
 
-def main():
-    proporcao_atual = input('Entre com a proporcao atual: ').replace(',','.')
-    numeracao_meses()
-    mes_atual = int(input('Entre com o mes atual: '))
-    meses_futuros = int(input('Entre com o numero de meses no futuro: '))
-
-    proporcao_nova = proporcao_apos_meses(mes_atual, meses_futuros, proporcao_atual)
-
-    print(f'A proporção após {meses_futuros} meses é: {proporcao_nova:.4f}')
-
 def proporcao_apos_meses(ma, mf, pa):
     float(pa)
     cm = 0
@@ -34,5 +24,15 @@ def proporcao_apos_meses(ma, mf, pa):
         ma += 1; cm += 1
 
     return ps
+
+def main():
+    proporcao_atual = input('Entre com a proporcao atual: ').replace(',','.')
+    numeracao_meses()
+    mes_atual = int(input('Entre com o mes atual: '))
+    meses_futuros = int(input('Entre com o numero de meses no futuro: '))
+
+    proporcao_nova = proporcao_apos_meses(mes_atual, meses_futuros, proporcao_atual)
+
+    print(f'A proporção após {meses_futuros} meses é: {proporcao_nova:.4f}')
 
 main()
