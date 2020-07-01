@@ -12,14 +12,14 @@ Durante o acompanhamento destes insetos por um ano, os cientistas descobriram um
     
 >xt + 1 = rm * xt * (1 - xt)
 
-Onde *rm* é o coeficiente associado à taxa de reprodução e escassez de alimento para o mês *m*. Além disso, eles tabelaram esses coeficientes, que mudam segundo as estações do ano, e são representados na tabela abaixo.
+Onde `rm` é o coeficiente associado à taxa de reprodução e escassez de alimento para o mês `m`. Além disso, eles tabelaram esses coeficientes, que mudam segundo as estações do ano, e são representados na tabela abaixo.
 
 Estação|Verão|Inverno|Primavera e Outono
 ---|---|---|---
 Meses|Dez, Jan, Fev|Jun, Jul, Ago|Demais meses
-r*m*|3.65|3.3|3.5
+rm|3.65|3.3|3.5
 
-Para auxiliar a equipe, que necessita de previsões futuras da população de insetos, você deve desenvolver um programa que, dada a condição atual da florestas, diga qual a proporção da população em relação à população máxima após *n* meses. 
+Para auxiliar a equipe, que necessita de previsões futuras da população de insetos, você deve desenvolver um programa que, dada a condição atual da florestas, diga qual a proporção da população em relação à população máxima após `n` meses. 
 
 A entrada e saída do seu programa deve ser como indicado abaixo:
 
@@ -31,11 +31,11 @@ Entre com o numero de meses no futuro: 87
 
 Sendo que seu programa deve responder da seguinte forma.
 
-````
+```
 A proporcao apos 87 meses e: 0.55
 ```
 
-Plus: Este modelo foi diculgado por m biólogo chamado Robert May, e está relacionado com mapas logísticos e teoria do caos. Mais informações podem ser enconradas neste [link](https://en.wikipedia.org/wiki/Logistic_map).
+Plus: Este modelo foi diculgado por m biólogo chamado Robert May, e está relacionado com mapas logísticos e teoria do caos. Mais informações podem ser enconradas neste [link](https://en.wikipedia.org/wiki/Logistic_map) .
 
 ---
 
