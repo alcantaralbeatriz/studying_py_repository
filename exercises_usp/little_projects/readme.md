@@ -17,4 +17,4 @@ Link do principal livro de referência utilizado: [Inglês](http://www.greenteap
 
 ### Terceiro Exercício Pratico: 
 
-[Problema]() e [Minha solução](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP2.py)
+[Problema]() e [Minha solução](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP3.py)
