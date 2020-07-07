@@ -1,4 +1,4 @@
-#04 
+#04 Destrinchar o valor de uma variável. 
 
 def Main004():
     anything = input('Digite algo: ')
