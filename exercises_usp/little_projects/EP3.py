@@ -1,6 +1,6 @@
 def raw_input():
-    nome_arquivo = str(input('Nome do arquivo: '))
-    arquivo = open(nome_arquivo)
+    #nome_arquivo = str(input('Nome do arquivo: '))
+    arquivo = open('proteinass.fasta')
     conteudo = arquivo.read(); 
     arquivo.close()
     linhas = conteudo.split('\n')
