@@ -1,7 +1,8 @@
 ## Pequenos projetos
 
 ### Introdução 
-São exercícios práticos realizados durante a disciplina MAC0119 (Introdução à Computação) no período do mestrado em 2019. A disciplina era focada em ensinar linguagem de programação Python. :vulcan_salute:
+São exercícios práticos realizados durante a disciplina MAC0119 (Introdução à Programação de Computadores
+), realizada no primeiro semestre de 2019. A disciplina era focada principalmente (e não somente) em ensinar linguagem de programação Python. :vulcan_salute:
 
 Link do principal livro de referência utilizado: [Inglês](http://www.greenteapress.com/thinkpython/thinkpython.pdf) e [Português](https://panda.ime.usp.br/pensepy/static/pensepy/)
 
@@ -13,8 +14,8 @@ Link do principal livro de referência utilizado: [Inglês](http://www.greenteap
 
 ### Segundo Exercício Prático: Genótipos
 
-[Problema]() e [Minha solução](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP2.py)
+[Problema](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP2.md) e [Minha solução](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP2.py)
 
-### Terceiro Exercício Prático: 
+### Terceiro Exercício Prático: Espectrometria de proteínas
 
-[Problema]() e [Minha solução](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP3.py)
+[Problema](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP3.md) e [Minha solução](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_usp/little_projects/EP3.py)
