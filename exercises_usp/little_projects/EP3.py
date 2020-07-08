@@ -1,6 +1,6 @@
 def raw_input():
     #nome_arquivo = str(input('Nome do arquivo: '))
-    arquivo = open('proteinass.fasta')
+    arquivo = open("proteina.fasta")
     conteudo = arquivo.read(); 
     arquivo.close()
     linhas = conteudo.split('\n')
@@ -32,17 +32,17 @@ def weightMass(aa_proteina):
 
 def ordemCres(proteina):
     for x in range(len(proteina)):
-        min = proteina[x][2]
+        minima = proteina[x][2]
         for y in range(x+1,len(proteina)):
             if proteina[y][2]<proteina[x][2]:
-                min=proteina[y][2]
+                minima=proteina[y][2]
                 proteina[y], proteina[x] = proteina[x], proteina[y]
     return proteina
 
 def impressao(prots): #impressao das proteinas em ordem crescente
     print(f'{"Peso":<10}{"Descrição":<15}{"Sequencia":<50}')
     for w in range(len(prots)):
-        print(f'{prots[w][2]:.4f}  {prots[w][0]:<15}{prots[w][1]:<50}')
+        print(f'{prots[w][2]:.4f}{prots[w][0]:<15}{prots[w][1]:<50}')
 
 def main():
     inicio = raw_input()
