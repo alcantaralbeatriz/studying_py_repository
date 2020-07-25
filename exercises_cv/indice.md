@@ -83,16 +83,33 @@ __Mundo 2__
 
 40. Faça um programa que calcule a média de duas notas do aluno, com resultado se foi aprovado ou não. (ex 7 melhorado)
 
-41. 
+41. Faça um programa que leia o ano de nascimento de um atleta e mostre sua categoria.
 
-42. (35?)
-...
+42. Faça um programa que leia o comprimento de 3 retas e retorne ao usuário se elas podem ou não formar um triângulo, e se é equilátero, isósceles ou escaleno.(35 melhorado)
+
+43. Faça um programa que leia o peso e altura de uma pessoa, forneça o valor do IMC e mostre seus status.
+
+44. Faça um programa que calcule o valor a ser pago por um produto, considerando o preço normal e a condição de pagamento. 1 - à vista em dinheiro (10% de desconto); 2 - à vista no débito (5% desconto); 3 - 2x no cartão (preço normal); 4 - 3x ou mais no cartão (20% de juros).
+
+45. Faça um programa que jogue jokenpô com o usuário.
+
+46. Faça um programa que mostre uma contagem regressiva 10 a 0 para o Ano Novo.
+
+47. Faça um programa que mostre todos os números pares entre 1 e 50.
+
+48. Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três no intervalo de 1 a 500.
 
 49. Faça um programa que leia um número inteiro e forneça a tabuada, utilizando o FOR. (similares: ex 9 e 67)
+
+50. Faça um programa que receba 6 números inteiros e some os pares.
 
 ...
 
 67. Faça um programa que leia um número inteiro e forneça a tabuada, utilizando WHILE. (similares: ex 9 e 49)
+
+...
+
+71. 
 
 __Mundo 3__
 

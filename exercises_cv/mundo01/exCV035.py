@@ -5,12 +5,7 @@ def Main035():
     reta_b = int(input('Reta B: '))
     reta_c = int(input('Reta C: '))
     if reta_a < reta_b + reta_c and reta_b < reta_a + reta_c and reta_c < reta_b + reta_a:
-        if reta_a == reta_b and reta_b == reta_c and reta_a == reta_c:
-            print('Formará um triângulo equilátero!')
-        elif reta_a == reta_b or reta_b == reta_c or reta_a == reta_c:
-            print('Formará um triângulo isósceles!')
-        elif reta_a != reta_b and reta_b != reta_c and reta_a != reta_c:
-            print('Formará um triângulo escaleno!')
+        print('Formará um triângulo!')
     else:
         print('NÃO formará um triangulo')
 
