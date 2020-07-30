@@ -1,11 +1,12 @@
 ## Exercícios
 
 __Mundo 1__
-A. Aula 01 a 05
 
-    1. Criar um programa que escreva "Hello world!".
+__A. Aula 01 a 05__
 
-    2. Criar programa que leia o nome do usuário e mostra uma msg de boas-vindas.
+   1. Criar um programa que escreva "Hello world!".
+
+   2. Criar programa que leia o nome do usuário e mostra uma msg de boas-vindas.
 
 B. Aula 06
 
