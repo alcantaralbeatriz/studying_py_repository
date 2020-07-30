@@ -2,19 +2,19 @@
 
 ### [__Mundo 1__](https://github.com/alcantaralbeatriz/studying_py_repository/tree/master/exercises_cv/mundo01)
 
-__A. Aula 01 a 05__
+__Aula 01 a 05__
 
    1. Criar um programa que escreva "Hello world!".
 
    2. Criar programa que leia o nome do usuário e mostra uma msg de boas-vindas.
 
-__B. Aula 06__
+__Aula 06__
 
    3. Criar um programa que leia dois números e mostre a soma entre eles.
 
    4. Destrinchar o valor de uma variável.
 
-__C. Aula 07__
+__Aula 07__
 
    5. Faça um programa que leia um número inteiro e mostre seus antecessor e sucessor.
 
@@ -38,7 +38,9 @@ __C. Aula 07__
 
    15. Escreva um programa que pergunte a quilometragem percorrida por um carro e a quantidade de dias pelo qual ele foi alugado. Calcule o preço a pagar (R$ 60,00/dia e R$ 0,15/km rodado)
 
-16. Escreva um programa que leia um numero real qualquer e mostre apenas a sua porção inteira. (Truncar)
+__Aula 08__
+
+   16. Escreva um programa que leia um numero real qualquer e mostre apenas a sua porção inteira. (Truncar)
 
 17. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre a hipotenusa.
 
