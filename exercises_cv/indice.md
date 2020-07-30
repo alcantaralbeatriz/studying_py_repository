@@ -1,6 +1,6 @@
 ## Exercícios
 
-__Mundo 1__
+**_Mundo 1_**
 
 __A. Aula 01 a 05__
 
@@ -8,35 +8,35 @@ __A. Aula 01 a 05__
 
    2. Criar programa que leia o nome do usuário e mostra uma msg de boas-vindas.
 
-B. Aula 06
+__B. Aula 06__
 
-    3. Criar um programa que leia dois números e mostre a soma entre eles.
+   3. Criar um programa que leia dois números e mostre a soma entre eles.
 
-    4. Destrinchar o valor de uma variável.
+   4. Destrinchar o valor de uma variável.
 
-C. Aula 07
+__C. Aula 07__
 
-    5. Faça um programa que leia um número inteiro e mostre seus antecessor e sucessor.
+   5. Faça um programa que leia um número inteiro e mostre seus antecessor e sucessor.
 
-    6. Faça um programa que leia um número e mostre seu dobro, triplo e raiz quadrada.
+   6. Faça um programa que leia um número e mostre seu dobro, triplo e raiz quadrada.
 
-    7. Faça um programa que calcule a média de duas notas do aluno. (ex 40 simplificado)
+   7. Faça um programa que calcule a média de duas notas do aluno. (ex 40 simplificado)
 
-    8. Faça um programa que leia uma medida em metros e converta-a em km,hm,dam,dm,cm,mm.
+   8. Faça um programa que leia uma medida em metros e converta-a em km,hm,dam,dm,cm,mm.
 
-    9. Faça um programa que leia um número inteiro e forneça a tabuada. (ex 49 e 67 simplificados)
+   9. Faça um programa que leia um número inteiro e forneça a tabuada. (ex 49 e 67 simplificados)
 
-    10. Faça um programa que converta real em dólar (R$5,5) e pesos argentinos (R$0,078).
+   10. Faça um programa que converta real em dólar (R$5,5) e pesos argentinos (R$0,078).
 
-    11. Faça um programa que leia comprimento e largura de uma parede e forneça os litros de tinta necessário para pintá-la (1.5l/m2).
+   11. Faça um programa que leia comprimento e largura de uma parede e forneça os litros de tinta necessário para pintá-la (1.5l/m2).
 
-    12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+   12. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 
-    13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário após um ajuste de 15% de aumento. (ex 34 simplificado)
+   13. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário após um ajuste de 15% de aumento. (ex 34 simplificado)
 
-    14. Faça um programa que converta uma temperatura digitada em Celsius para Fahrenheit e Kelvin.
+   14. Faça um programa que converta uma temperatura digitada em Celsius para Fahrenheit e Kelvin.
 
-    15. Escreva um programa que pergunte a quilometragem percorrida por um carro e a quantidade de dias pelo qual ele foi alugado. Calcule o preço a pagar (R$ 60,00/dia e R$ 0,15/km rodado)
+   15. Escreva um programa que pergunte a quilometragem percorrida por um carro e a quantidade de dias pelo qual ele foi alugado. Calcule o preço a pagar (R$ 60,00/dia e R$ 0,15/km rodado)
 
 16. Escreva um programa que leia um numero real qualquer e mostre apenas a sua porção inteira. (Truncar)
 
