@@ -42,45 +42,49 @@ __Aula 08__
 
    16. Escreva um programa que leia um numero real qualquer e mostre apenas a sua porção inteira. (Truncar)
 
-17. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre a hipotenusa.
+   17. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre a hipotenusa.
 
-18. Faça um programa que leia um ângulo qualquer e mostre o valor de seno, cosseno, e tangente.
+   18. Faça um programa que leia um ângulo qualquer e mostre o valor de seno, cosseno, e tangente.
 
-19. Faça um programa que escolha um dos 4 alunos para o professor.
+   19. Faça um programa que escolha um dos 4 alunos para o professor.
 
-20. Faça um programa que sorteie a ordem dos n alunos para o professor. (mudei para que o professor definisse o numero de alunos a serem sorteados)
+   20. Faça um programa que sorteie a ordem dos n alunos para o professor. (mudei para que o professor definisse o numero de alunos a serem sorteados)
 
-21. Faça um programa que abra e reproduza o áudio de um arquivo MP3.
+   21. Faça um programa que abra e reproduza o áudio de um arquivo MP3.
 
-22. Faça um programa que leia o nome completo de uma pessoa e mostre: nome com todas as letras minusculas e maiusculas; quantas letras tem sem considerar espaços; e quantas letras tem o primeiro nome.
+__Aula 09__
 
-23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+   22. Faça um programa que leia o nome completo de uma pessoa e mostre: nome com todas as letras minusculas e maiusculas; quantas letras tem sem considerar espaços; e quantas letras tem o primeiro nome.
 
-24. Faça um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo".
+   23. Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 
-25. Faça um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome. (com o 24)
+   24. Faça um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo".
 
-26. Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra 'a'; em que posição ela aparece a primeira e ultima vez.
+   25. Faça um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome. (com o 24)
 
-27. Faça um programa que leia o nome completo e mostre o primeiro e ultimo nome separadamente. (com o 26)
+   26. Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra 'a'; em que posição ela aparece a primeira e ultima vez.
 
-28. Faça um programa que faça o computador fornecer um numero inteiro entre 0 e 5 e peça para o usuário descobrir qual numero é. (feito como o 58)
+   27. Faça um programa que leia o nome completo e mostre o primeiro e ultimo nome separadamente. (com o 26)
 
-29. Faça um programa que leia a velocidade de um carro e mostre uma mensagem se ele ultrapassar 80km/h, e o valor da multa (R$ 7,00 por cada km acima do limite).
+__Aula 10__
 
-30. Faça um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
+   28. Faça um programa que faça o computador fornecer um numero inteiro entre 0 e 5 e peça para o usuário descobrir qual numero é. (feito como o 58)
 
-31. Faça um programa que leia a distância em km de uma viagem, e calcule o valor da passagem, sendo esta de R$0,50 por km em viagens de até 200km, e R$0,45 para viagens mais longas.
+   29. Faça um programa que leia a velocidade de um carro e mostre uma mensagem se ele ultrapassar 80km/h, e o valor da multa (R$ 7,00 por cada km acima do limite).
 
-32. Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+   30. Faça um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
 
-33. Faça um programa que leia três números e diga qual o maior e o menor deles.
+   31. Faça um programa que leia a distância em km de uma viagem, e calcule o valor da passagem, sendo esta de R$0,50 por km em viagens de até 200km, e R$0,45 para viagens mais longas.
 
-34. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário após um ajuste (15% para salários iguais ou até R$ 1250,00 e 15% para maiores), utilizando IF / ELSE. (ex 13 melhorado)
+   32. Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 
-35. Faça um programa que leia o comprimento de 3 retas e retorne ao usuário se elas podem ou não formar um triângulo.
+   33. Faça um programa que leia três números e diga qual o maior e o menor deles.
 
-__Mundo 2__
+   34. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário após um ajuste (15% para salários iguais ou até R$ 1250,00 e 15% para maiores), utilizando IF / ELSE. (ex 13 melhorado)
+
+   35. Faça um programa que leia o comprimento de 3 retas e retorne ao usuário se elas podem ou não formar um triângulo.
+
+[__Mundo 2__](https://github.com/alcantaralbeatriz/studying_py_repository/tree/master/exercises_cv/mundo02)
 
 36. Faça um programa que leia o valor de uma casa, o salario do comprador e em quantos anos ele pretende pagar, e diga se ele pode ou não obter um empréstimo (a prestação mensal não pode exceder 30% do salário).
 
@@ -154,7 +158,7 @@ __Mundo 2__
 
 71. 
 
-__Mundo 3__
+[__Mundo 3__](https://github.com/alcantaralbeatriz/studying_py_repository/tree/master/exercises_cv/mundo03)
 
 72. Faça um programa que
 
