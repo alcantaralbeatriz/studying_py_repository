@@ -4,4 +4,4 @@
 
 Mais informações sobre a linguaguem: [site oficial](https://www.python.org/)
 
-
+(https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_cv/images/keep-calm-code-python.jpg)
