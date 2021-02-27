@@ -2,7 +2,7 @@
 
 :tipping_hand_person:Lista de exercícios realizados durante o curso "Python 3" do Curso em Vídeo.
 
-Curso em Vídeo: [site](https://www.cursoemvideo.com/) do curso e canal do [YouTube](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ).
+Curso em Vídeo: [site](https://www.cursoemvideo.com/) do curso e [canal](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) do YouTube.
 
 ### Nota Pessoal
 
