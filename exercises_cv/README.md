@@ -12,4 +12,4 @@ Após as aulas no canal do YouTube, iniciei também aulas no site e no [Apoie.me
 
 Obrigada!
 
-PS: :upside_down_face: Ouvi de um Youtuber(não lembro o nome dele): "..diz a lenda, que todo programador começou a aprender programação com o prof. Guanabara.." :sweat_smile:
+PS: :upside_down_face: Ouvi de um Youtuber (não lembro qual): "..diz a lenda, que todo programador começou a aprender programação com o prof. Guanabara.." :sweat_smile:

@@ -84,82 +84,94 @@ __Aula 10__
 
    35. Faça um programa que leia o comprimento de 3 retas e retorne ao usuário se elas podem ou não formar um triângulo.
 
+__Aula 11__ 
+
+   Cores no termial :)
+
 [__Mundo 2__](https://github.com/alcantaralbeatriz/studying_py_repository/tree/master/exercises_cv/mundo02)
 
-36. Faça um programa que leia o valor de uma casa, o salario do comprador e em quantos anos ele pretende pagar, e diga se ele pode ou não obter um empréstimo (a prestação mensal não pode exceder 30% do salário).
+__Aula 12__
 
-37. Faça um programa que leia um número inteiro qualquer e peça ao usuário escolher qual será a base de conversão: 1 - Binário, 2 - Octal, e 3 - Hexadecimal.
+   36. Faça um programa que leia o valor de uma casa, o salario do comprador e em quantos anos ele pretende pagar, e diga se ele pode ou não obter um empréstimo (a prestação mensal não pode exceder 30% do salário).
 
-38. Faça um programa que leia dois números e diga qual o maior e o menor deles, ou se são iguais.(semelhante ao 33)
+   37. Faça um programa que leia um número inteiro qualquer e peça ao usuário escolher qual será a base de conversão: 1 - Binário, 2 - Octal, e 3 - Hexadecimal.
 
-39. Faça um programa que leia o ano de nascimento de um jovem e informe se ele ainda irá se alistar, se é a hora de se alistar ou se já passou o tempo, além de mostrar o tempo que falta ou que passou para o alistamento.
+   38. Faça um programa que leia dois números e diga qual o maior e o menor deles, ou se são iguais.(semelhante ao 33)
 
-40. Faça um programa que calcule a média de duas notas do aluno, com resultado se foi aprovado ou não. (ex 7 melhorado)
+   39. Faça um programa que leia o ano de nascimento de um jovem e informe se ele ainda irá se alistar, se é a hora de se alistar ou se já passou o tempo, além de mostrar o tempo que falta ou que passou para o alistamento.
 
-41. Faça um programa que leia o ano de nascimento de um atleta e mostre sua categoria.
+   40. Faça um programa que calcule a média de duas notas do aluno, com resultado se foi aprovado ou não. (ex 7 melhorado)
 
-42. Faça um programa que leia o comprimento de 3 retas e retorne ao usuário se elas podem ou não formar um triângulo, e se é equilátero, isósceles ou escaleno.(35 melhorado)
+   41. Faça um programa que leia o ano de nascimento de um atleta e mostre sua categoria.
 
-43. Faça um programa que leia o peso e altura de uma pessoa, forneça o valor do IMC e mostre seus status.
+   42. Faça um programa que leia o comprimento de 3 retas e retorne ao usuário se elas podem ou não formar um triângulo, e se é equilátero, isósceles ou escaleno.(35 melhorado)
 
-44. Faça um programa que calcule o valor a ser pago por um produto, considerando o preço normal e a condição de pagamento. 1 - à vista em dinheiro (10% de desconto); 2 - à vista no débito (5% desconto); 3 - 2x no cartão (preço normal); 4 - 3x ou mais no cartão (20% de juros).
+   43. Faça um programa que leia o peso e altura de uma pessoa, forneça o valor do IMC e mostre seus status.
 
-45. Faça um programa que jogue jokenpô com o usuário.
+   44. Faça um programa que calcule o valor a ser pago por um produto, considerando o preço normal e a condição de pagamento. 1 - à vista em dinheiro (10% de desconto); 2 - à vista no débito (5% desconto); 3 - 2x no cartão (preço normal); 4 - 3x ou mais no cartão (20% de juros).
 
-46. Faça um programa que mostre uma contagem regressiva 10 a 0 para o Ano Novo.
+   45. Faça um programa que jogue jokenpô com o usuário.
 
-47. Faça um programa que mostre todos os números pares entre 1 e 50.
+__Aula 13__
 
-48. Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três no intervalo de 1 a 500.
+   46. Faça um programa que mostre uma contagem regressiva 10 a 0 para o Ano Novo.
 
-49. Faça um programa que leia um número inteiro e forneça a tabuada, utilizando o FOR. (similares: ex 9 e 67)
+   47. Faça um programa que mostre todos os números pares entre 1 e 50.
 
-50. Faça um programa que receba 6 números inteiros e some os pares.
+   48. Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três no intervalo de 1 a 500.
 
-51. Faça um programa que leia o primeiro termo e a razão de uma PA (progressão aritmética), e mostre os 10 primeiros termos.
+   49. Faça um programa que leia um número inteiro e forneça a tabuada, utilizando o FOR. (similares: ex 9 e 67)
 
-52. Faça um programa que leia um número inteiro e mostre se ele é primo ou não, mostrando seus divisíveis.
+   50. Faça um programa que receba 6 números inteiros e some os pares.
 
-53. Faça um programa que leia uma frase e diga se é um palíndromo, desconsiderando espaços.
+   51. Faça um programa que leia o primeiro termo e a razão de uma PA (progressão aritmética), e mostre os 10 primeiros termos.
 
-54. Faça um programa que leia o ano de nascimento de sete pessoas, e mostre quantas atingiram e quantas não atingiram a maioridade.
+   52. Faça um programa que leia um número inteiro e mostre se ele é primo ou não, mostrando seus divisíveis.
 
-55. Faça um programa que leia o peso de 5 pessoas e diga qual foi o menor e o maior.
+   53. Faça um programa que leia uma frase e diga se é um palíndromo, desconsiderando espaços.
 
-56. Faça um programa que leia o nome, idade e sexo, então forneça a idade média do grupo, o nome das mulheres com menos de 20 anos e o nome do homem mais velho.
+   54. Faça um programa que leia o ano de nascimento de sete pessoas, e mostre quantas atingiram e quantas não atingiram a maioridade.
 
-57. Faça um programa que leia o sexo de uma pessoa e só aceite "M" ou "F", caso não receba, forneça uma mensagem de erro até a resposta estiver correta.
+   55. Faça um programa que leia o peso de 5 pessoas e diga qual foi o menor e o maior.
 
-58. Faça um programa que faça o computador fornecer um número inteiro entre 0 e 10 e peça para o usuário descobrir qual numero é, usuário deve adivinhar até acertar e será fornecido o número de tentativas. (28 melhorado)
+   56. Faça um programa que leia o nome, idade e sexo, então forneça a idade média do grupo, o nome das mulheres com menos de 20 anos e o nome do homem mais velho.
 
-59. Faça um programa que leia dois números e forneça um menu de opções parao usuário escolher se quer somar, multiplicar, dizer qual o maior, fornecer novos números, ou sair do programa.
+__Aula 14__
 
-60. Faça um programa que leia um número inteiro e mostre seu fatorial. 
+   57. Faça um programa que leia o sexo de uma pessoa e só aceite "M" ou "F", caso não receba, forneça uma mensagem de erro até a resposta estiver correta.
 
-61. Faça um programa que leia o primeiro termo e a razão de uma PA (progressão aritmética), e mostre os 10 primeiros termos; utilizando estrutura while. (51 melhorado)
+   58. Faça um programa que faça o computador fornecer um número inteiro entre 0 e 10 e peça para o usuário descobrir qual numero é, usuário deve adivinhar até acertar e será fornecido o número de tentativas. (28 melhorado)
 
-62. Faça um programa que leia o primeiro termo, a razão de uma PA (progressão aritmética), e quantos termos o usuário quer ver; utilizando estrutura while, e encerrando se o usuário escolher "0" termos a mais.
+   59. Faça um programa que leia dois números e forneça um menu de opções parao usuário escolher se quer somar, multiplicar, dizer qual o maior, fornecer novos números, ou sair do programa.
 
-63. Faça um programa que leia um número inteiro e mostre os n primeiros números da sequência de Fibonacci.
+   60. Faça um programa que leia um número inteiro e mostre seu fatorial. 
 
-64. Faça um programa que leia vários números inteiros, e use '999' como condição de parada. Ao final, mostre quantos números foram digitados e qual foi a soma entre eles. (semelhante ao 66)
+   61. Faça um programa que leia o primeiro termo e a razão de uma PA (progressão aritmética), e mostre os 10 primeiros termos; utilizando estrutura while. (51 melhorado)
 
-65. Faça um programa que leia vários números inteiros, pergunte ao usuário se ele quer continuar. Ao final, mostre a média dos valores, o maior e menor número.
+   62. Faça um programa que leia o primeiro termo, a razão de uma PA (progressão aritmética), e quantos termos o usuário quer ver; utilizando estrutura while, e encerrando se o usuário escolher "0" termos a mais.
 
-66. Faça um programa que leia vários números inteiros, e use '999' como condição de parada. Ao final, mostre quantos números foram digitados e qual foi a soma entre eles. Utilize o 'break'. (junto do exercício 64)
+   63. Faça um programa que leia um número inteiro e mostre os n primeiros números da sequência de Fibonacci.
 
-67. Faça um programa que leia um número inteiro e forneça a tabuada, utilizando WHILE. (similares: ex 9 e 49)
+   64. Faça um programa que leia vários números inteiros, e use '999' como condição de parada. Ao final, mostre quantos números foram digitados e qual foi a soma entre eles. (semelhante ao 66)
 
-68. 
+   65. Faça um programa que leia vários números inteiros, pergunte ao usuário se ele quer continuar. Ao final, mostre a média dos valores, o maior e menor número.
 
-69. 
+__Aula 15__
 
-70. 
+   66. Faça um programa que leia vários números inteiros, e use '999' como condição de parada. Ao final, mostre quantos números foram digitados e qual foi a soma entre eles. Utilize o 'break'. (junto do exercício 64)
 
-71. 
+   67. Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo. (similares: ex 9 e 49)
+
+   68. Faça um programa que jogue par ou ímpar com o computador. O jogo sóserá interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
+   69. Faça um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre: quantas pessoas tem mais de 18 anos; quantos homens foram cadastrados; quantas mulheres tem menos de 20 anos.
+
+   70. Faça um programa que leia o nome e o preço de vários produtos, ele deverá perguntar se o usuário vai continuar. No final, mostre: qual é o total gasto na compra; quantos produtos custam mais de R$1000; qual é o nome do produto mais barato.
+
+   71. Faça um programa que simule o funcionamento de um caixa eletrônico. Pergunte qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues. Considere cédulas de 50, 20, 10 e 1.
 
 [__Mundo 3__](https://github.com/alcantaralbeatriz/studying_py_repository/tree/master/exercises_cv/mundo03)
 
-72. Faça um programa que
+72. Faça um programa que 
 
 ...

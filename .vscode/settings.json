@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\alcan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
+    "python.pythonPath": "C:\\Users\\alcan\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "files.autoSave": "afterDelay"
 }
