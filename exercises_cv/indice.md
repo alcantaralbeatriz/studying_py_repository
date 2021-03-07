@@ -216,7 +216,15 @@ __Aula 18__
 
 __Aula 19__
 
-   90. 
+   90. Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
+
+   91. Faça um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
+
+   92. 
+
+   93. 
+
+   94. 
 
    95. 
 
@@ -224,15 +232,41 @@ __Aula 20__
 
    96. 
 
+   97. 
+
+   98. 
+
+   99. 
+
    100. 
 
 __Aula 21__
 
    101. 
 
+   102. 
+
+   103. 
+
+   104. 
+
+   105. 
+
+   106. 
+
 __Aula 22__
 
    107. 
+
+   108. 
+
+   109. 
+
+   110. 
+
+   111. 
+   
+   112. 
 
 __Aula 23__
 
