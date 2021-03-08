@@ -4,6 +4,8 @@
 
 Curso em Vídeo: [site](https://www.cursoemvideo.com/) do curso e [canal](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ) do YouTube.
 
+[Índice](https://github.com/alcantaralbeatriz/studying_py_repository/blob/master/exercises_cv/indice.md) dos exercícios.
+
 ### Nota Pessoal
 
 O curso de Python3 do canal me ajudou muito, pois iniciei meu aprendizado em programação por pura curiosidade e do zero. As aulas são simples e de fácil compreensão, aumentam de complexidade conforme a evolução do aprendizado (ou seja, se você seguir as aulas certinho e fizer os exercícios, não terá problemas em acompanhar as aulas).:wink:
