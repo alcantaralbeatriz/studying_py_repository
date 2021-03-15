@@ -29,7 +29,7 @@ CEHG
 Tabela de massas monoisotópicas dos principais aminoácidos. [Site de origem](http://education.expasy.org/student_projects/isotopident/htdocs/aa-list.html)
 
 Aminoácido|Símbolo|Massa monoisotópica
----|---|---
+:---:|:---:|:---:
 Alanina|A|71.037
 Arginina|R|156.101
 Asparigina|N|114.042
@@ -51,3 +51,5 @@ Triptofano|W|186.079
 Tirosina|Y|163.063
 Valina|V|99.068
 
+<br/>
+Boa sorte!

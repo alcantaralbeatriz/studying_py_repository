@@ -8,7 +8,7 @@ Durante o acompanhamento destes insetos por um ano, os cientistas descobriram um
 Onde `rm` é o coeficiente associado à taxa de reprodução e escassez de alimento para o mês `m`. Além disso, eles tabelaram esses coeficientes, que mudam segundo as estações do ano, e são representados na tabela abaixo.
 
 Estação|Verão|Inverno|Primavera e Outono
----|---|---|---
+:---:|:---:|:---:|:---:
 Meses|Dez, Jan, Fev|Jun, Jul, Ago|Demais meses
 rm|3.65|3.3|3.5
 
@@ -29,3 +29,5 @@ A proporcao apos 87 meses e: 0.55
 ```
 
 Plus: Este modelo foi diculgado por m biólogo chamado Robert May, e está relacionado com mapas logísticos e teoria do caos. Mais informações podem ser encontradas neste [link](https://en.wikipedia.org/wiki/Logistic_map).
+
+Boa sorte!
