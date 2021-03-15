@@ -10,5 +10,4 @@ def Main020():
     random.shuffle(alunos)
     print(f'Ordem de apresentação será:{alunos}')
     
-
 Main020()

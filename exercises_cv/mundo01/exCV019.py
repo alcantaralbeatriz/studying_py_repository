@@ -5,8 +5,7 @@ import random
 def Main019():
     alunos = []
     for x in range(4):
-        alunos.append(input('Nome do aluno: '))
+        alunos.append(input(f'Nome do aluno {x}: '))
     print(f'Quem vai apagar o quadro é o/a: {random.choice(alunos)}!!')
-
 
 Main019()

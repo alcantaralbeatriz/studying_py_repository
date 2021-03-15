@@ -6,5 +6,7 @@ def Main016():
     real_qualquer = float(input('Digite um número qualquer: '))
     print(f'A parte inteira é {math.trunc(real_qualquer)}')
 
+Main016()
+
 # OU {real_qualquer:.0f} 
 # OU .format(int(real_qualquer))
