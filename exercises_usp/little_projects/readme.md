@@ -4,7 +4,7 @@
 São exercícios práticos realizados durante a disciplina MAC0119 (Introdução à Programação de Computadores
 ), realizada no primeiro semestre de 2019. A disciplina era focada principalmente (e não somente) em ensinar linguagem de programação Python. :vulcan_salute:
 
-Link do principal livro de referência utilizado: [Inglês](http://www.greenteapress.com/thinkpython/thinkpython.pdf) e [Português](https://panda.ime.usp.br/pensepy/static/pensepy/)
+Link do principal livro de referência utilizado: [Inglês](http://www.greenteapress.com/thinkpython/thinkpython.pdf) e [Português](https://panda.ime.usp.br/pensepy/static/pensepy/).
 
 ---
 
